@@ -1,28 +1,17 @@
-# Arquitetura e fluxos — atem
+# Arquitetura e fluxos — ATEM
 
-Estado: **inventário inicial, arquitetura não confirmada**. O README não estava acessível nesta consulta ou não forneceu base suficiente. Não inferir arquitetura a partir do nome do repositório.
-Fonte: https://github.com/duduxweb/atem
+Documentação 1.0 · 13/11/2026 · [HTML interativo](fluxos.html)
 
-## Etapa 1 — Levantamento
-- Repositório identificado no GitHub conectado.
-- Hipótese/contexto a conferir: Projeto audiovisual ATEM; verificar modelo, controle, macros e fluxos SDI no código e documentação.
-- Pendente: ler árvore do código, documentação técnica, workflows, configuração de execução e eventuais arquivos de projeto no Drive.
+## Etapa 1 · Inventário
 
-## Etapa 2 — Fluxos
-- **Entrada:** não confirmada.
-- **Processamento:** não confirmado.
-- **Saída:** não confirmada.
-- **Integrações e fontes da verdade:** não confirmadas.
-- **Deploy e execução real:** não verificados.
+Base de código `d4a41392dcd8bdead76af25fba8851cbe6275d73`. O repositório tem documentação. A memória Audio + Atem e a geração piloto do Cabeção foram localizadas.
 
-## Índice e verificação
-- [x] Repositório localizado
-- [ ] Arquitetura validada em fonte técnica
-- [ ] Fluxo ponta a ponta documentado com evidências
-- [ ] Estado de deploy/execução conferido
+## Etapa 2 · Fluxo e estado
 
-## Etapa 3 — Reservada
-Sem otimização ou mudanças de código neste momento.
+Fontes de produção audiovisual → ATEM e fluxo Fairlight documentado no acervo → Operação de transmissão a confirmar na instalação.
+
+Conferir modelo, topologia SDI/áudio e macros em inventário do operador. Nenhum comando a hardware foi executado.
 
 ## Histórico
-- 2026-11-13: inventário preliminar; lacunas explicitadas.
+
+- 1.0 · Primeira revisão do mapa navegável e registro das evidências e lacunas.
